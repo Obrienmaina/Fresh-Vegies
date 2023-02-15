@@ -1,0 +1,142 @@
+/* body{
+    background-color: #eaf6f6;
+   
+}
+
+hr{
+    border-style: dotted;
+    border-bottom: 0ex;
+    border-right: 0ex;
+    border-left: 0ex;
+    border-width: 5px;
+    border-color: grey;
+    width: 20%;
+    
+}
+
+
+/* a:hover{color: black;
+}
+a:link	{color: rgb(255, 0, 0);} */
+/* a:visited {color: rgb(255, 0, 0);}
+a:link:active	{color: aqua;} */
+/* a:visited:active {color: green;} */
+
+/* h3{color: #66bfbf;} */
+
+/*------------------------------------- class selectors------------------------------------------ */
+/* .fire{
+    background-color: aqua;
+}
+.ice{
+    background-color: rgb(209, 119, 1);
+}
+.circular{
+    border-radius: 20%;
+}
+.height{
+    max-height: 100px;
+} */
+/*------------------------------------ selectors notes ------------------------------------------ */
+/* 
+ 1. you can only have a single instace of an id in a webpage
+ 2. you can have more than 1 class in an selector
+ 3. use ids sparingly
+
+*/
+/*------------------------------------- id selectors------------------------------------------ */
+
+/* #id1{
+    background-color: beige;
+}
+
+/*------------------------------------- pseudo class selectors--------------------------------- */
+/* different states of an element */
+
+/* img:hover{
+    background-color: crimson;
+}  */
+
+body{
+    background-color:#daffe2;
+    margin: 0px;
+
+}
+
+.wel{
+    color:#E3FCBF;
+    margin: 0%;
+}
+
+.start{
+    background-color: #14C38E;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+.mid{
+    background-color: #ffffff;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+}
+
+hr{
+    border-width: 5px;
+    border-style: dotted;
+    width: 50%;
+    border-color: #daffe2;
+    border-bottom: 2px;  
+}
+
+.end{
+    background-color: #000000;
+    padding-right: 20px;
+    padding-left: 20px;
+    padding-bottom: 50px;
+    padding-top: 30px;
+
+}
+
+.text{
+    color: #14C38E;
+}
+
+img{
+    max-height: 20px;
+}
+
+a{
+    color: #14C38E;
+}
+
+.first{
+    height: 200px;
+    width: 200px;
+    background-color: brown;
+    border: solid 20px grey;
+}
+
+.two{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(165, 153, 42);
+    margin-left: 200px;
+    border: solid 20px grey;
+}
+
+.three{
+    height: 200px;
+    width: 200px;
+    background-color: rgb(91, 11, 94);
+    margin-left: 400px;
+    border: solid 20px grey;
+}
+
+.bld{
+    text-decoration: underline;
+    /* text-emphasis: filled red; */
+}
